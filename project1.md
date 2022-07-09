@@ -67,7 +67,7 @@ Answer Y for yes, or anything else to continue without enabling.
 ### STEP 4 — CREATING A VIRTUAL HOST FOR YOUR WEBSITE USING APACHE
 
 
-#### I dont seem to understand from the PHP bit...I need some clearity
+#### I dont seem to understand from the PHP bit...I need some clarity
 
 
 
